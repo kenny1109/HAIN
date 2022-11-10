@@ -1,4 +1,1 @@
-# HAIN
-
-### 论文 HAIN: Multi-label Classification with Hierarchical Attention-based Interaction Network for Multi-turn Dialogue Texts的源代码，包含基础的baseline实验以及HAIN及消融研究（Ablation study）。
 ### Pytorch>=1.4，Python>=3.7
